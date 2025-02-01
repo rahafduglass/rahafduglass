@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there, I'm Rahaf 👋 
+## Hi there I'm Rahaf👋
 
 ## 🚀 About Me
 - 🎓 I'm a JAVA developer.
