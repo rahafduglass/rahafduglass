@@ -1,7 +1,7 @@
 ## Hi there I'm Rahaf👋
 
 ## 🚀 About Me
-- 🎓 I'm a JAVA developer.
+- ☕ I'm a JAVA developer.
 - 💻 Passionate about Java backend development.
 - 🔭 Currently working on my graduation project a social hub.
 - 📫 Reach me at @duglassrahaf@gmail.com 
