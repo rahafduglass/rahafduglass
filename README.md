@@ -9,7 +9,8 @@
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahaf-duglass-bb9b6a21a)  
-📧 **Email:** @duglassrahaf@gmail.com
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:duglassrahaf@gmail.com)  
+ 
 
 ## 💻 Tech Stack:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)  
