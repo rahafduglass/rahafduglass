@@ -4,14 +4,14 @@
 - ☕ I'm a JAVA developer.
 - 💻 Passionate about Java backend development.
 - 🔭 Currently working on my graduation project a social hub.
-- 📫 Reach me at @duglassrahaf@gmail.com
 - ⚡ Fun fact: I don’t time travel, but every time I revisit my old code, it feels like I’m looking at ancient history. 
 
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahaf-duglass-bb9b6a21a)  
+📧 **Email:** @duglassrahaf@gmail.com
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?logo=springboot&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)  
@@ -19,7 +19,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?logo=swagger&logoColor=black)  
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens)  
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rahafduglass&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
 
 ---
